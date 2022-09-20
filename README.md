@@ -1,1 +1,2 @@
 # PythonTets
+这是关于一些运用Python进行信息检索的实验项目
